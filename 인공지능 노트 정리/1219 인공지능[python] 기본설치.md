@@ -9,6 +9,7 @@
 3. 시스템 변수 Path 설정해주기
 
 4. 기본 설정
+
 4.1 Window Powershell 기입(관리자권한)
 
     Set-ExecutionPolicy RemoteSigned 권한을 주기?
