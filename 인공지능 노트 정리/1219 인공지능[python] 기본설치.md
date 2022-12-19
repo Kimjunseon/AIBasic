@@ -17,11 +17,10 @@ conda init powershell: 윈도우 파워셀에 콘다 설정하기
 4.3  Window Powershell 기입
 conda config --set auto_activate_base False: 윈도우 실행 시 자동켜짐 끄기
 
-====================================================
 # 콘다 명령어, Window Powershell에 기입
 
 콘다 활성화하기
-conda activate or conda activate ~~~: ~~~을 파일폴더명을 가진 env 활성화
+conda activate or conda activate ~~~ : ~~~ 을 파일폴더명을 가진 env 활성화
 
 현재 환경유무 확인
 conda env list
@@ -30,7 +29,7 @@ conda env list
 conda list
 
 가상환경 만들기
-conda create -n ~~~ python=3.8: 파이썬버전이 3.8인 ~~~이름의 가진 가상환경 만들기
+conda create -n ~~~ python=3.8: 파이썬버전이 3.8인 ~~~ 이름의 가진 가상환경 만들기
 
 넘파이 설치
 conda install numpy
