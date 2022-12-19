@@ -24,7 +24,7 @@
 
 # 콘다 명령어, Window Powershell에 기입
 
-콘다 활성화하기
+*콘다 활성화하기
 
     conda activate or conda activate ~~~ : ~~~ 을 파일폴더명을 가진 env 활성화
 
