@@ -26,44 +26,44 @@
 
 * 콘다 활성화하기
 
-    conda activate or conda activate ~~~ : ~~~ 을 파일폴더명을 가진 env 활성화
+      conda activate or conda activate ~~~ : ~~~ 을 파일폴더명을 가진 env 활성화
 
-현재 환경유무 확인
+* 현재 환경유무 확인
 
-    conda env list
+      conda env list
 
-현재 설치된 모듈리스트 보기
+* 현재 설치된 모듈리스트 보기
 
-    conda list
+      conda list
 
-가상환경 만들기
+* 가상환경 만들기
 
-    conda create -n ~~~ python=3.8: 파이썬버전이 3.8인 ~~~ 이름의 가진 가상환경 만들기
+      conda create -n ~~~ python=3.8: 파이썬버전이 3.8인 ~~~ 이름의 가진 가상환경 만들기
 
-넘파이 설치
+* 넘파이 설치
 
-    conda install numpy
+      conda install numpy
 
-판다스 설치
+* 판다스 설치
 
-    conda install pandas
+      conda install pandas
 
-matplotlib 설치
+* matplotlib 설치
 
-    conda install matplotlib
+      conda install matplotlib
 
-쥬피터 설치
+* 쥬피터 설치
 
-    conda install jupyter
+      conda install jupyter
 
-해당폴더에 주피터 생성 후 실행
+* 해당폴더에 주피터 생성 후 실행
 
-    jupyter notebook
+      jupyter notebook
 
-쥬피터 노트북 폰트 설정
+* 쥬피터 노트북 폰트 설정
 
-    1. jupyter notebook --generate-config: 쥬피터 일반적인 설정 파일 만들기
-    2. 사용자 폴더 아래 jupyter에 custom 폴더, 안에 custom.css 만들기
+      1. jupyter notebook --generate-config: 쥬피터 일반적인 설정 파일 만들기
+      2. 사용자 폴더 아래 jupyter에 custom 폴더, 안에 custom.css 만들기
 
 ```
 --공백이 없는 사이트 설정--
@@ -80,7 +80,7 @@ div#notebook, div.prompt{
 }
 ```
 
-색깔 사이트
+* 색깔 사이트
 
-    https://matplotlib.org/stable/gallery/color/named_colors.html
+        https://matplotlib.org/stable/gallery/color/named_colors.html
 
