@@ -2,7 +2,7 @@
 2. 슬랙 즐찾
 3. Window Powershell 설치
 
-[Mini conda 설정]
+# Mini conda 설정
 1. Path: 사용자이름  - script 
 2. 경로 저장
 3. 시스템 변수 Path 설정해주기
@@ -18,7 +18,7 @@ conda init powershell: 윈도우 파워셀에 콘다 설정하기
 conda config --set auto_activate_base False: 윈도우 실행 시 자동켜짐 끄기
 
 ====================================================
-[콘다 명령어, Window Powershell에 기입]
+# 콘다 명령어, Window Powershell에 기입
 
 콘다 활성화하기
 conda activate or conda activate ~~~: ~~~을 파일폴더명을 가진 env 활성화
