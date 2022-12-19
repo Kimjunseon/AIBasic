@@ -8,14 +8,17 @@
 3. 시스템 변수 Path 설정해주기
 
 4. 기본 설정
-  4.1 Window Powershell 기입(관리자권한)
-  Set-ExecutionPolicy RemoteSigned 권한을 주기?
+4.1 Window Powershell 기입(관리자권한)
 
-  4.2 Anaconda Powershell Prompt 기입
-  conda init powershell: 윈도우 파워셀에 콘다 설정하기
+    Set-ExecutionPolicy RemoteSigned 권한을 주기?
 
-  4.3 Window Powershell 기입
-  conda config --set auto_activate_base False: 윈도우 실행 시 자동켜짐 끄기
+4.2 Anaconda Powershell Prompt 기입
+
+    conda init powershell: 윈도우 파워셀에 콘다 설정하기
+   
+4.3 Window Powershell 기입
+
+    conda config --set auto_activate_base False: 윈도우 실행 시 자동켜짐 끄기
 
 # 콘다 명령어, Window Powershell에 기입
 
