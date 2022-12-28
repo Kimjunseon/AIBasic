@@ -1,2 +1,8 @@
 **/.project
 *.project
+*.jpg
+**/.jpg
+*.json
+**/.json
+*.npy
+**/.npy
